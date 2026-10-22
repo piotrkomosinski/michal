@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--suzebnoscprzesylu-23c.pl/sitemap.xml
